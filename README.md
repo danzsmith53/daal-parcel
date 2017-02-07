@@ -1,7 +1,16 @@
-# daal-parcel
+#daal-parcel
 
+This repo contains the parcel files for installing the daal-tk library on CDH using CDH Manager. `daal-parcel` supports the TAP Analyticas Toolkit (ATK) daal-tk library. The daal-tk library is located at: [https://github.com/tapanalyticstoolkit/daal-tk](https://github.com/tapanalyticstoolkit/daal-tk).
 
-##to build and run first checkout
+##What's New
+
+This is the initial release of `daal-parcel`.
+
+##Known Issues
+
+None.
+
+##To build and run your first checkout:
 ```
 git clone --recursive https://github.com/trustedanalytics/daal-parcel.git
 ```
